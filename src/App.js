@@ -17,7 +17,7 @@ class App extends Component {
   //state ={progress:0}
   //setProgress =(progress) =>{
     //this.setState({progress:progress})
-  //}
+  // kj}
   render() {
     return (
       <div>
